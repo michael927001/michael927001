@@ -1,21 +1,21 @@
 
 
-# 👋 Hey, I'm Michael Currie
+#  Hey, I'm Michael Currie
 
-💻 **Aspiring Software Developer**
+ **Aspiring Software Developer**
 
 I’m passionate about learning how technology solves real-world problems. I enjoy exploring how code, design, and logic come together to build useful applications as I grow my skills.
 
 ---
 
-## 🧠 Learning & Skills
+##  Learning & Skills
 - **Currently Learning:** Python, Java, C++
 - **Tools:** Git, GitHub, VS Code, Linux
 - **Focus Areas:** Software development fundamentals, automation, and problem-solving
 
 ---
 
-## 🚀 Current Learning Goals
+##  Current Learning Goals
 - Strengthen Python programming skills  
 - Continue studying Java and C++  
 - Practice Git version control and collaboration  
@@ -23,10 +23,10 @@ I’m passionate about learning how technology solves real-world problems. I enj
 
 ---
 
-## 📫 Contact
+##  Contact
 - **Email:** michaelcurrie1129@gmail.com  
 - **GitHub:** [github.com/michael927001](https://github.com/michael927001)
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+ *Thanks for visiting my profile!*
