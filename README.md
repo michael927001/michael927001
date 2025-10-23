@@ -3,7 +3,7 @@
 #  Hey, I'm Michael Currie
 
  **Aspiring Software Developer**
-
+I’m currently expanding my knowledge through hands-on projects and self-study.
 I’m passionate about learning how technology solves real-world problems. I enjoy exploring how code, design, and logic come together to build useful applications as I grow my skills.
 
 ---
