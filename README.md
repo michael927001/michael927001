@@ -26,6 +26,7 @@ I’m passionate about learning how technology solves real-world problems. I enj
 ##  Contact
 - **Email:** michaelcurrie1129@gmail.com  
 - **GitHub:** [github.com/michael927001](https://github.com/michael927001)
+- Feel free to reach out if you’d like to connect or collaborate.
 
 ---
 
